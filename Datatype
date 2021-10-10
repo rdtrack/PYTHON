@@ -1,1 +1,15 @@
 
+int------Integer Datatype
+float----float Datatype
+boolean--Boolean Datatype
+string---String Datatype
+complex--Complex Datatype
+
+
+num1=45;num2=5;num3=10;   #integer datatype
+num1=45.5;num2=65.7;      #float datatype
+name1="Rutwik";name2="Komal";name="Divya";name3="Shreya";name4="Shweta";name5="Dadu";   #String Datatype
+bln=True;bln=False
+
+name=True;
+type(num1)------It is datatype which is used to check the datatype
