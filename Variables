@@ -1,1 +1,14 @@
+Variables are container that store the value
+variables are case sensative 
 
+----------
+COMMENTS
+
+#-----COMMMENTS IN PYTHON
+
+----------------
+VARIABLES VALUE THAT WHICH IS IN THE FORM OF STRING  THAT CAN BE WRITTEN IN THE TRIPPLE QUOTE DOUBLE QOUTE AND  SINGLE QUOTE
+
+NAME="RAM"
+NAME='SHYAM'
+NAME='''THAM'''
